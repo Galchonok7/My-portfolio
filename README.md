@@ -1,5 +1,5 @@
 # My-portfolio
-Проект 1.
+Проект 2.
 Инструмент Power BI
 Для выполнения задачи используются:
 - для расчета изменения выручки CALCULATE, DATEDADD, DIVIDE, CALENDAR.
